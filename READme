@@ -1,0 +1,16 @@
+# Customer Churn Analysis
+
+A beginner-friendly data analysis project using Python, Pandas, Matplotlib, and Seaborn.
+
+## Project Overview
+This project analyzes customer churn patterns and visualizes customer behavior.
+
+## Dataset
+IBM Telco Customer Churn Dataset
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
